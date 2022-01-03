@@ -1,0 +1,25 @@
+body{
+    background-color: crimson;
+}
+
+.topwhitepart{ background-color: darkkhaki;
+margin:0;}
+
+
+.top{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+#button{
+    margin-top: 5;
+}
+
+.footer{
+    bottom:0;
+    position: fixed;
+    font-size: 18px;
+    text-align: center;
+    background-color: darkturquoise;
+    color: gainsboro;
+    width:100%;
+    line-height: 3;
+    text-shadow: 5px 5px 5px black;
+}
